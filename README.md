@@ -2,6 +2,6 @@
 
 What is up world!
 
-Here making some sence out of git!
+Here making some sense out of git!
 
 I know! You are welcome! :)
